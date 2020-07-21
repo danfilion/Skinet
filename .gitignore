@@ -5,5 +5,7 @@ StudentAssets2
 appsettings.json
 *.db
 *.rdb
+*.db-shm
+*.db-wal
 
 
